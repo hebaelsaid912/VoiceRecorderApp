@@ -23,5 +23,3 @@ android xml-java.
 ```sh
  implementation 'com.airbnb.android:lottie:3.4.1'
 ```
-
-![WhatsApp Video 2021-04-22 at 5 42 31 PM](https://user-images.githubusercontent.com/72816466/115745576-dab8db80-a393-11eb-8210-d907a36aefde.gif)
