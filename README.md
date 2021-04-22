@@ -1,3 +1,5 @@
+![WhatsApp Video 2021-04-22 at 5 42 31 PM](https://user-images.githubusercontent.com/72816466/115745951-35eace00-a394-11eb-88ed-caac7e9811c4.gif)
+
 # VoiceRecorderApp
 ## _Android application_
 
